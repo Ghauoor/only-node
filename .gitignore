@@ -1,0 +1,119 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment Variables
+.env
+
+# IDEs and Code Editors
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Build and Distribution
+build/
+dist/
+
+# Temporary files
+*.tmp
+*~
+
+# Minified files
+*.min.js
+*.min.css
+
+# Testing Reports
+coverage/
+
+# Webpack Bundle Tracker
+webpack-bundle-tracker.json
+
+# VS Code settings
+*.code-workspace
+.vscode/settings.json
+
+# Webpack
+webpack-stats.json
+webpack-stats-test.json
+
+# Logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn cache directory
+.yarn
+
+# Optional pnpm cache directory
+.pnpm
+
+# Optional Docker
+*.docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+.env.docker
+
+# Optional EditorConfig
+.editorconfig
+
+# Optional ESLint cache
+.eslintcache
+
+# Optional Jest Cache
+/jest-result.json
+/jest-stale-cache.json
+/.jest-cache/
+
+# Optional Webpack Dev Server
+webpack-dev-server.json
+
+# Optional Jest Config
+jest.config.js
+
+# Optional Jest Test Directory
+/__tests__/
+
+# Optional Type Definitions
+typings/
+
+# Optional Bower Components
+bower_components/
+
+# Optional Grunt Files
+Gruntfile.js
+
+# Optional Gulp Files
+Gulpfile.js
+
+# Optional Webpack Files
+webpack.config.js
+webpack.config.test.js
+webpack.config.production.js
+webpack.config.development.js
+
+# Optional TypeScript Files
+*.tsbuildinfo
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Optional Jest Output Directory
+/jest-results.json
+
+# Optional Webpack Bundle Directory
+/bundles/
